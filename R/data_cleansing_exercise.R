@@ -1,4 +1,4 @@
-# # 1. 建立原始資料集
+# 1. 建立原始資料集
 raw_data <- data.frame(
   student_id = c(101, 102, 103, 104, 104, 105),
   gender = c("M", "F", "m", "F", "F", "M"),
